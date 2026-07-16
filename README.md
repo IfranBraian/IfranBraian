@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://portfolioibl.my.canva.site/)
-- I’m currently open for an Intern or a new job opportunity, this is [My CV](./CV.IfránBryan.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://github.com/IfranBraian/IfranBraian/blob/main/CV.%20Ifr%C3%A1nBryan.pdf))
 
 <br><br>
 
