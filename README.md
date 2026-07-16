@@ -46,12 +46,14 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![WordPress](https://img.shields.io/badge/WordPress%20-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
    ![Astro](https://img.shields.io/badge/Astro%20-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Railway](https://img.shields.io/badge/Railway%20-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
     
 <br>
 
